@@ -42,7 +42,7 @@ The theme was "Robo Rugby 7S". 2 Robots were to be developed both mannual. Passi
 
 <table>
   <tr>
-    <td><img src="https://ibb.co/64wT3Lq" width="300" > </td>
+    <td><img src="https://i.ibb.co/Vv9z75k/20201027-093346.jpg" width="300" > </td>
     <td><img src="https://i.ibb.co/8NxpNBc/IMG-20190113-221416.jpg" width="300"></td>
     </tr>
 </table>
