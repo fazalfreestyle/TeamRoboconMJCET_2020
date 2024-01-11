@@ -52,7 +52,7 @@ The theme was "Robo Rugby 7S". 2 Robots were to be developed both mannual. Passi
 
  * [Drive Link](https://drive.google.com/drive/folders/1Rp0p_m68HIez9n3mTeEJMILI1brYxi0f?usp=drive_link)
 
-<br> To learn more about this project, click on this [link](https://sahq-azhar.github.io/robo2019.html).
+<br> To learn more about this project, click on this [link](https://sahq-azhar.github.io/robo2020.html).
 
 
 **Eat, Sleep, TRM, Repeat!**
