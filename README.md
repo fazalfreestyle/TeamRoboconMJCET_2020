@@ -43,21 +43,14 @@ The theme was "Robo Rugby 7S". 2 Robots were to be developed both mannual. Passi
 <table>
   <tr>
     <td><img src="https://i.ibb.co/Vv9z75k/20201027-093346.jpg" width="300" > </td>
-    <td><img src="https://i.ibb.co/8NxpNBc/IMG-20190113-221416.jpg" width="300"></td>
+    <td><img src="https://i.ibb.co/25HG4Jc/IMG-20201027-WA0048.jpg" width="300"></td>
     </tr>
 </table>
-
-<img src="https://i.ibb.co/MRq283Z/20190120-201105.jpg" width="300">  <img src="https://i.ibb.co/RbCNK64/20190112-005635.jpg" width="300">  
-
-
-
-
-
 
 
 **Video Link: -**
 
- * [Youtube.com/TRM_2019](https://www.youtube.com/watch?v=6dfaND6Z6hM&t)
+ * [Drive Link](https://drive.google.com/drive/folders/1Rp0p_m68HIez9n3mTeEJMILI1brYxi0f?usp=drive_link)
 
 <br> To learn more about this project, click on this [link](https://sahq-azhar.github.io/robo2019.html).
 
